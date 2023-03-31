@@ -36,7 +36,7 @@ It's required to use a Goerli test network in order to interact with this page, 
 
 ### 1. 💾 Download Metamask Wallet Extension
 
-If you don't know to to do this just follow [this](https://www.cryptonary.com/cryptoschool/tutorial-how-to-download-set-up-use-metamask/) guide (Only install and save your backup phrase)
+If you don't know how to do this just follow [this](https://www.cryptonary.com/cryptoschool/tutorial-how-to-download-set-up-use-metamask/) guide (Only install and save your backup phrase)
 
 ### 2. 😎 In Metamask advanced settings make sure u have "Show test networks" button ON
 
