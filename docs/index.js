@@ -3,7 +3,7 @@ var instance
 var user
 var IdStr = "457896541299"
 
-var contract = "0x24695FB2D2fC68cC88AA18bA68BCc41C9EecA39D"
+var contract = "0x319e0BAA29FB60FFdeb1CC9FA5d598221718dBDD"
 var contractOwner
 
 $(document).ready(function () {
@@ -220,5 +220,3 @@ async function buyRobot(id, price) {
 async function totalRobots() {
     var robots = await instance.methods.totalSupply().call()
 }
-
-

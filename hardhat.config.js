@@ -28,11 +28,11 @@ module.exports = {
         hardhat: {
             initialBaseFeePerGas: 0,
         },
-        goerli: {
-            url: process.env.GOERLI_API,
+        mumbai: {
+            url: process.env.MUMBAI_API,
             accounts: [process.env.PRIVATE_KEY],
         },
-        ethereum: {
+        polygon: {
             chainId: 1,
             url: process.env.MAINNET_API,
             accounts: [process.env.PRIVATE_KEY],
@@ -42,4 +42,3 @@ module.exports = {
         apiKey: process.env.ETHERSCAN_KEY,
     },
 }
-
